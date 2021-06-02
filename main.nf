@@ -17,7 +17,7 @@ process latestDocker {
 }
 
 process versionedDocker {
-    container 'katetran/dockstore-tool-helloworld:1@sha256helloworld'
+    container 'katetran/dockstore-tool-helloworld:1@sha256:helloworld'
 
     exec:
     println "versionedDocker"
