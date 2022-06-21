@@ -2,4 +2,6 @@ version: 1.2
 workflows:
    - subclass: NFL
      primaryDescriptorPath: /nextflow.config
+     author:
+     - name: Kathy
 
