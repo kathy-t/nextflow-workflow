@@ -3,5 +3,5 @@ workflows:
    - subclass: NFL
      primaryDescriptorPath: /nextflow.config
      authors:
-     - name: Kathy Test!!
+     - name: Kathy Test 123
 
