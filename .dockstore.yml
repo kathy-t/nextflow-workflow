@@ -1,6 +1,6 @@
 version: 1.2
 workflows:
-   - subclass: NFL
+   - soubclass: NFL
      primaryDescriptorPath: /nextflow.config
      authours:
      - name: Kathy Test 123
